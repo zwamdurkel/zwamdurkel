@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Aloys Riswick aka Zwamdurkel</h1>
-<h3 align="center">A Computer Science student from the Netherlands</h3>
+<h1 align="leftr">Hi, I'm Aloys Riswick aka Zwamdurkel</h1>
+<h3 align="left">A Computer Science student from the Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zwamdurkel&label=Profile%20views&color=brightgreen&style=flat-square" alt="zwamdurkel" /> </p>
 
-- 🔭 I’m currently working on **Random personal projects**
+- I’m currently working on **Random personal projects**
 
-- 🌱 I’m currently learning **.net, javascript**
+- I’m currently learning **.net, javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
