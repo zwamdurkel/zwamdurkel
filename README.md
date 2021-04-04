@@ -49,6 +49,6 @@
 </p>
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=zwamdurkel&show_icons=true&title_color=2fac35&hide_border=true&locale=en" alt="zwamdurkel" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zwamdurkel&show_icons=true&title_color=2fac35&hide_border=true&locale=en&layout=compact" alt="zwamdurkel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zwamdurkel&show_icons=true&title_color=000000&hide_border=true&locale=en" alt="zwamdurkel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zwamdurkel&show_icons=true&title_color=000000&hide_border=true&locale=en&layout=compact" alt="zwamdurkel" />
 </p>
