@@ -38,7 +38,8 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
-
+  <img alr="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 <h3>My Favourite Editors</h3>
 <p>
@@ -48,6 +49,6 @@
 </p>
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=zwamdurkel&show_icons=true&hide_border=true&locale=en" alt="zwamdurkel" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zwamdurkel&show_icons=true&hide_border=true&locale=en&layout=compact" alt="zwamdurkel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zwamdurkel&show_icons=true&title_color=2fac35&hide_border=true&locale=en" alt="zwamdurkel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zwamdurkel&show_icons=true&title_color=2fac35&hide_border=true&locale=en&layout=compact" alt="zwamdurkel" />
 </p>
