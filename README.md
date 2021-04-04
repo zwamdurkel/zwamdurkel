@@ -8,12 +8,7 @@
 
 - I’m currently learning **.net, javascript**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/15553112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15553112" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zwamdurkel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zwamdurkel" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/142353022276730880" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Zwamdurkel#2578" height="30" width="40" /></a>
-</p>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -47,6 +42,8 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 
 </p>
+
+<hr>
 
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=zwamdurkel&show_icons=true&title_color=000000&hide_border=true&locale=en" alt="zwamdurkel" />
