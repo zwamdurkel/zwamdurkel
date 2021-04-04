@@ -1,5 +1,5 @@
 
-<h1 align="leftr">Hi, I'm Aloys Riswick aka Zwamdurkel</h1>
+<img alt="header" src="https://github.com/zwamdurkel/zwamdurkel/blob/main/header.png"/>
 <h3 align="left">A Computer Science student from the Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zwamdurkel&label=Profile%20views&color=brightgreen&style=flat-square" alt="zwamdurkel" /> </p>
@@ -49,6 +49,7 @@
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <br>
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
   <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -77,4 +78,8 @@
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=zwamdurkel&show_icons=true&title_color=000000&hide_border=true&locale=en" alt="zwamdurkel" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zwamdurkel&show_icons=true&title_color=000000&hide_border=true&locale=en&layout=compact" alt="zwamdurkel" />
+</p>
+<p>
+  <img alt="CPU" src="https://img.shields.io/badge/AMD-Ryzen_5_1600-ED1C24?style=for-the-badge&logoColor=white"/>
+  <img alt="CPU" src="https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logoColor=white"/>
 </p>
