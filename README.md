@@ -28,6 +28,6 @@
 </p>
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=zwamdurkel&show_icons=true&locale=en" alt="zwamdurkel"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zwamdurkel&show_icons=true&locale=en&layout=compact" alt="zwamdurkel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zwamdurkel&show_icons=true&hide_border=true&locale=en" alt="zwamdurkel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zwamdurkel&show_icons=true&hide_border=true&locale=en&layout=compact" alt="zwamdurkel" />
 </p>
