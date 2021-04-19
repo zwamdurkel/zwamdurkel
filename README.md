@@ -6,7 +6,7 @@
 
 - I’m currently working on **Random personal projects**
 
-- I’m currently learning **.net, javascript**
+- I’m currently learning **.net, javascript, react**
 
 <hr>
 
