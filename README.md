@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zwamdurkel&label=Profile%20views&color=brightgreen&style=flat-square" alt="zwamdurkel" /> </p>
 
-- I’m currently working on **Random personal projects, "Envision"**
+- I’m currently working on **Random personal projects, Random university projects**
 
-- I’m currently learning **.net, javascript**
+- I’m currently learning **.net**
 
 <hr>
 
