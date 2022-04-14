@@ -1,12 +1,10 @@
-
 <img alt="header" src="https://github.com/zwamdurkel/zwamdurkel/blob/main/header.png"/>
 <h3 align="left">A Computer Science student from the Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zwamdurkel&label=Profile%20views&color=brightgreen&style=flat-square" alt="zwamdurkel" /> </p>
 
 - I’m currently working on **Random personal projects, Random university projects**
-
-- I’m currently learning **.net**
+- I’m currently learning **.net** 
 
 <hr>
 
