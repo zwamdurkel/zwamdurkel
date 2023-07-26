@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zwamdurkel&label=Profile%20views&color=brightgreen&style=flat-square" alt="zwamdurkel" /> </p>
 
 - I’m currently working on **Random personal projects, Random university projects**
-- I’m currently learning **.net** 
 
 <hr>
 
@@ -81,6 +80,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zwamdurkel&show_icons=true&title_color=000000&hide_border=true&locale=en&layout=compact" alt="zwamdurkel" />
 </p>
 <p>
-  <img alt="CPU" src="https://img.shields.io/badge/AMD-Ryzen_5_1600-ED1C24?style=for-the-badge&logoColor=white"/>
-  <img alt="CPU" src="https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logoColor=white"/>
+  <img alt="CPU" src="https://img.shields.io/badge/Intel-Core_i7_13700k-0f79bc?style=for-the-badge&logoColor=white"/>
+  <img alt="CPU" src="https://img.shields.io/badge/NVidia-RTX_3090-76b900?style=for-the-badge&logoColor=white"/>
 </p>
